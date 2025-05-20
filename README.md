@@ -4,6 +4,7 @@ Execution Videos:
 3. https://youtube.com/shorts/DxaJCATmgEs?si=_HFMfLFY-m1I-99E
 
 **BLE-based Distance Estimation System**
+
 **Objective** 
 The primary objective of this team-based assignment is to develop a Bluetooth Low Energy (BLE) distance estimation system using ESP32 modules, where the distance between devices is calculated based on the signal strength (RSSI) and transmission power (txPower) values. This involves not only establishing BLE communication but also implementing a mathematical model to estimate real-world distances from signal characteristics.
 
